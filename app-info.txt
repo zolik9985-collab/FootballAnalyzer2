@@ -1,0 +1,13 @@
+# Football Analyzer 2
+
+Football statistics and match prediction.
+
+## Statistics
+- Goals
+- Corners
+- Yellow and red cards
+- Fouls
+- Shots on target
+
+## Data
+Current season match results and team statistics.
